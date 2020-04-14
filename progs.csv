@@ -11,3 +11,4 @@ TAG,NAME,PURPOSE
 ,firefox,"is my default web browser."
 ,feh,"is an image viewer that manages the desktop wallpaper."
 ,dmenu,"is a dynamic menu for the X server use for calling custom scripts."
+,zsh,"is an alternative shell, that I'm eventually going to invest time in learning."
