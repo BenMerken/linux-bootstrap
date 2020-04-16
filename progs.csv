@@ -11,6 +11,7 @@ TAG,NAME,PURPOSE
 ,rxvt-unicode,"is the terminal emulator."
 ,urxvt-perls,"contains perl extension scripts for URxvt functionalities."
 A,urxvt-resize-font-git,"is an URxvt extension to resize your fonts with keybindings."
+,noto-fonts,"is Google's TTF fonts pack."
 ,unzip,"unzips zip files."
 ,xclip,"is usder for copying and pasting from the terminal."
 ,firefox,"is my default web browser."
