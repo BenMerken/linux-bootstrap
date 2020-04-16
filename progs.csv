@@ -9,6 +9,7 @@ TAG,NAME,PURPOSE
 ,i3-gaps,"is the main window manager."
 ,i3status,"generates a status line for i3bar."
 ,rxvt-unicode,"is the terminal emulator."
+,xclip,"is usder for copying and pasting from the terminal."
 ,firefox,"is my default web browser."
 ,feh,"is an image viewer that manages the desktop wallpaper."
 ,dmenu,"is a dynamic menu for the X server use for calling custom scripts."
