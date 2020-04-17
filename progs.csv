@@ -5,6 +5,7 @@ TAG,NAME,PURPOSE
 ,xorg-server,"is the graphical server."
 ,xorg-xinit,"starts the X server."
 ,xorg-wminfo,"is the command line utility to print information about windows on an X server."
+,xorg-xrandr,"is used to set size, orientation and reflection of the outputs of the sceen."
 ,xdg-utils,"are filetype utilities."
 ,i3-gaps,"is the main window manager."
 ,i3status,"generates a status line for i3bar."
