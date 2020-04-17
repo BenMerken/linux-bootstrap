@@ -1,7 +1,7 @@
 TAG,NAME,PURPOSE
 ,nano,"is my backup text editor."
 ,git,"is my version control system of choice."
-,vim,"is my text editor of choice."
+,neovim,"is my text editor of choice."
 ,xorg-server,"is the graphical server."
 ,xorg-xinit,"starts the X server."
 ,xorg-wminfo,"is the command line utility to print information about windows on an X server."
