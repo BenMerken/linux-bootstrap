@@ -12,7 +12,7 @@ TAG,NAME,PURPOSE
 ,rxvt-unicode,"is the terminal emulator."
 ,urxvt-perls,"contains perl extension scripts for URxvt functionalities."
 A,urxvt-resize-font-git,"is an URxvt extension to resize your fonts with keybindings."
-,noto-fonts,"is Google's TTF fonts pack."
+,noto-fonts-emoji,"is Google's TTF fonts pack, including emojis."
 ,xorg-xdpyinfo,"is a display information utility for X."
 ,xcompmgr,"is a lightweight compositor for Xorg."
 ,unzip,"unzips zip files."
@@ -21,3 +21,4 @@ A,urxvt-resize-font-git,"is an URxvt extension to resize your fonts with keybind
 ,feh,"is an image viewer that manages the desktop wallpaper."
 ,dmenu,"is a dynamic menu for the X server use for calling custom scripts."
 ,zsh,"is an alternative shell, that I'm eventually going to invest time in learning."
+,neomutt,"is a terminal email client."
